@@ -15,8 +15,8 @@ Download the latest version of .NET SDK from here.
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/dependency-injection-reflection.git
-cd dependency-injection-reflection
+git clone https://github.com/adriavend/csharp-sample-service-provider.git
+cd csharp-sample-service-provider
 ```
 
 2. Build the application:
